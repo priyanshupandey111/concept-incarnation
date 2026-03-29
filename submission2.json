@@ -1,0 +1,6 @@
+{
+  "prompt": "Close-up editorial photograph in a high-end tailor's atelier. A bespoke suit jacket hangs on a tailor's dummy, covered in an extraordinary number of hand-stitched custom seams, elaborate darts, and precise tucks tracking every individual contour of one specific body. The craftsmanship is obsessive and excessive. On a second dummy beside it, the exact same jacket clearly cannot fit — it pulls, puckers, and distorts against a body only slightly different from the first. Warm atelier window light. Editorial fashion photography style. No diagrams, no graphs, no text, no labels, no mathematical notation, no equations, no floating annotations, no non-physical elements.",
+  "model": "DALL-E 3 via Bing Image Creator",
+  "concept": "overfitting",
+  "metaphor": "A bespoke suit fitted obsessively to one body cannot fit anyone else. Excessive precision to training examples causes failure to generalise."
+}
